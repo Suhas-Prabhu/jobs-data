@@ -1,0 +1,22 @@
+Driver :
+  selenium driver path :
+    D:\Job Hunt\jobs\data\chromedriver.exe
+  
+  browser path :
+    C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe
+  
+  incognito :
+    True
+  
+  Headless :
+    False
+  
+linkedin:
+  url:
+    https://www.linkedin.com/ 
+  username:
+    # put username here
+  password:
+    # password
+
+    
